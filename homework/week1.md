@@ -1,4 +1,4 @@
-# DE Zoomcamp Homeworke Week 1
+# DE Zoomcamp Homework Week 1
 
 ### Question 1. Knowing docker tags
 
